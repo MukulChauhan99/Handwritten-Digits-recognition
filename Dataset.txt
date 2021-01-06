@@ -1,0 +1,4 @@
+For data set download train file "mnist dataset csv"
+
+Link 
+https://www.kaggle.com/c/digit-recognizer/data?select=train.csv
